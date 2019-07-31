@@ -81,6 +81,10 @@ figcaption {
   line-height: 1.6em;
 }
 
+p {
+  padding-bottom: 15px;
+}
+
 a {
   text-decoration: none;
 }
